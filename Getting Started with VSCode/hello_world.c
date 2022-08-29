@@ -3,6 +3,7 @@
 
 int main()
 {
-    printf("Hello World!");
-    return EXIT_SUCCESS;
+    const int MY_NUM = 7;
+    printf("Hello World!!!!!\n");
+    return 0;
 }
